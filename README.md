@@ -21,6 +21,10 @@
   Run npm start and go to http://localhost:3001/. Click get started. Enter your text and click the floppy disk icon on the top right to save your entry. Clicking the + will clear the inputs. Clicking a note on the left will move the text to the entry area.
   
 
+
+https://user-images.githubusercontent.com/88948869/144777820-ff0a6aab-352a-4135-9027-9a77d51db143.mp4
+
+
   
   
   
